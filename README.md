@@ -70,12 +70,12 @@ The objective of this project is to identify operational bottlenecks and improve
 ![Dashboard](Dashboard.png)
 
 ### Hubs Overview
-![Hubs](Hubs_Overview.png)
+![Hubs](Huboverview.png)
 
 ### Drivers Overview
-![Drivers](drivers_overview.png)
+![Drivers](driveroverview.png)
 
 ### Vehicles Overview
-![Vehicles](Vehicles_overview.png)
+![Vehicles](Vehicleoverview.png)
 - Route optimization
 - Fleet maintenance analytics
