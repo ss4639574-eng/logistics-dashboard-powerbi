@@ -70,7 +70,7 @@ The objective of this project is to identify operational bottlenecks and improve
 ![Dashboard](Dashboard.png)
 
 ### Hubs Overview
-![Hubs](Hubs_overview.png)
+![Hubs](Hubs_Overview.png)
 
 ### Drivers Overview
 ![Drivers](drivers_overview.png)
