@@ -55,7 +55,8 @@ The objective of this project is to identify operational bottlenecks and improve
 - Vans handled the majority of deliveries.
 - Average delivery time remained around 35 hours.
 - Some experienced drivers still showed higher delay percentages.
-
+- Route optimization
+- Fleet maintenance analytics
 ---
 
 ## Future Improvements
