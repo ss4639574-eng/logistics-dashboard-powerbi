@@ -62,5 +62,19 @@ The objective of this project is to identify operational bottlenecks and improve
 
 - Real-time logistics tracking
 - Predictive delay analysis
+
+## Dashboard Preview
+
+### Executive Dashboard
+![Dashboard](Dashboard.png)
+
+### Hubs Overview
+![Hubs](Hubs_overview.png)
+
+### Drivers Overview
+![Drivers](drivers_overview.png)
+
+### Vehicles Overview
+![Vehicles](Vehicles_overview.png)
 - Route optimization
 - Fleet maintenance analytics
