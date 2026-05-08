@@ -57,7 +57,6 @@ The objective of this project is to identify operational bottlenecks and improve
 - Some experienced drivers still showed higher delay percentages.
 - Route optimization
 - Fleet maintenance analytics
----
 
 ## Future Improvements
 
@@ -77,5 +76,3 @@ The objective of this project is to identify operational bottlenecks and improve
 
 ### Vehicles Overview
 ![Vehicles](Vehicleoverview.png)
-- Route optimization
-- Fleet maintenance analytics
