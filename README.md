@@ -22,7 +22,9 @@ The objective of this project is to identify operational bottlenecks and improve
 - Power Query
 - CSV Dataset
 
----
+## Dataset Files
+
+Dataset files are available inside the `Data` folder.
 
 ## Dashboard Pages
 
